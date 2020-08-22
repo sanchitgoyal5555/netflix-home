@@ -1,0 +1,73 @@
+body{
+	background-image: url("bg_netflix.png");
+	 background-blend-mode: lighten;
+	 padding-left: 32px;
+}
+#but2{
+	position: absolute;
+	top: 30px;
+	background-color: red;
+	border-color: red;
+	border-width: 1px;
+	font-size: 14px;
+	font-family: sans-serif;
+	height: 28px;
+	color: white;
+	text-align: center;
+	margin-left: 1100px;
+	padding-left: 16px;
+	padding-right: 16px;
+	margin-top: 0px;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+
+}
+
+#a{
+	color: red;
+	font-size:40px; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: bold;
+	font-weight: bold;
+	vertical-align: text-top;
+	
+	letter-spacing: 1.5px;
+	border-color: black;
+	border-collapse: 50%;
+	border-radius: 50%;
+	margin-bottom: 0px;
+
+}
+
+h1{ font-size: 68px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 120px;
+	color: white;
+	height: 42px;
+	
+}
+h2{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	height: 32px;
+	font-size: 22px;
+	color: white;
+	margin-bottom: 12px;
+}
+#but1{
+
+	background-color: red;
+	border-color: red;
+	border-width: 1px;
+	font-size: 12px;
+	letter-spacing: 2px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 24px;
+	padding-right: 24px;
+	color: white;
+
+}

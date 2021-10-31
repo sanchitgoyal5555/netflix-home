@@ -1,2 +1,2 @@
-Netflix home page
+NETFLIX home page
 using HTML and CSS

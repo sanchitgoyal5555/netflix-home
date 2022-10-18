@@ -3,6 +3,8 @@ body{
 	background-image: url("bg_netflix.png");
 	 background-blend-mode: lighten;
 	 padding-left: 32px;
+	margin:0;
+	padding:0;
 }
 /* Adding a comment */
 #but2{
@@ -26,6 +28,7 @@ body{
 	border-top-right-radius: 3px;
 
 }
+
 
 #a{
 	color: red;
